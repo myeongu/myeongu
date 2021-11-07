@@ -87,7 +87,39 @@ body {
     background-color: #E4FFFA;
     margin-top: 15px;
 }
+#content-1 {
+    display: inline-block;
+    margin: 10px 10px 10px 10px;
 
+    height: 300px;
+    width: 28%;
+    border: #333333 dashed;
+    border-radius: 10px;
+}
+#content-2 {
+    display: inline-block;
+    margin: 10px 10px 10px 10px;
+    
+    height: 300px;
+    width: 28%;
+    border: #333333 dashed;
+    border-radius: 10px;
+}
+#content-3 {
+    display: inline-block;
+    margin: 10px 10px 10px 10px;
+    
+    height: 300px;
+    width: 28%;
+    border: #333333 dashed;
+    border-radius: 10px;
+}
+.content-title {
+    display: block;
+}
+.content-body {
+    display: block;
+}
 
 
 #footer-container {
