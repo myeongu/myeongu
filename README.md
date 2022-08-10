@@ -7,7 +7,7 @@
 * naver AI boostcamp 3기 CV 트랙 수료
 
 ## Interest
-* Various application in Machine Learning
+* Various application in software skills
 * Product Serving in AI industry
 
 항상 새로운 걸 배우는 것을 좋아하며, 꾸준히 성장하는 엔지니어가 되고자 합니다.
