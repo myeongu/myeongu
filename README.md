@@ -5,7 +5,7 @@
 * 연세대학교 화공생명공학과 학사 졸업
 
 ## Continued Professional Development
-* naver AI boostcamp 3기 CV 트랙 수료
+* Naver AI boostcamp 3기 CV 트랙 수료
 * 앨리스 AI 트랙 3기 수료
 
 ## Interest
