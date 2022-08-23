@@ -1,10 +1,12 @@
 # Introduce
 안녕하세요! 항상 새로운 것을 배우고 성장하고 싶어하는 엔지니어 강면구입니다.
 
-## Education + Extracurricular activity
+## Education 
 * 연세대학교 화공생명공학과 학사 졸업
-* 앨리스 AI 트랙 3기 수료
+
+## Continued Professional Development
 * naver AI boostcamp 3기 CV 트랙 수료
+* 앨리스 AI 트랙 3기 수료
 
 ## Interest
 * Various application in software skills
