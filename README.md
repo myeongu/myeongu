@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Google%20Cloud-blueviolet?style=flat-square&logo=GoogleCloud&logoColor=white"/>
 
 
-저에 대한 좀 더 자세한 이야기는 다음의 페이지에 있습니다! [CV page](https://lean-geometry-f3f.notion.site/c229492ad4fc42489002d3a30faf8dcc)
+저에 대한 좀 더 자세한 이야기는 다음의 페이지에 있습니다! \[[CV page](https://lean-geometry-f3f.notion.site/c229492ad4fc42489002d3a30faf8dcc)]
 <br />
 <br />
 
